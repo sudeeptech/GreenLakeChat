@@ -8,8 +8,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 # PAGE CONFIG
 # ----------------------------------
 st.set_page_config(page_title="GreenLake Assistance")
-st.title("💬")
-st.write("Ask questions from your internal knowledge base")
+st.title("💬GreenLake Assistnace")
 
 # ----------------------------------
 # RELOAD BUTTON (for new data updates)
