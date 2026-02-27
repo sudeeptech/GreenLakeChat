@@ -7,8 +7,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 # ----------------------------------
 # PAGE CONFIG
 # ----------------------------------
-st.set_page_config(page_title="Local QA Assistant")
-st.title("💬 Local Question Answer System (No API)")
+st.set_page_config(page_title="GreenLake Assistance")
+st.title("💬")
 st.write("Ask questions from your internal knowledge base")
 
 # ----------------------------------
