@@ -73,12 +73,10 @@ if query:
     # Compute similarity
     scores = cosine_similarity(query_vector, embeddings)[0]
     best_match_index = np.argmax(scores)
-    confidence = scores[best_match_index]
 
-    # Threshold check
-    if confidence > 0.5:
+    # Threshold check (internal only)
+    if scores[best_match_index] > 0.5:
         st.write("### ✅ Answer")
         st.write(answers[best_match_index])
-        st.caption(f"Confidence: {round(confidence, 2)}")
     else:
         st.write("I don't know")
