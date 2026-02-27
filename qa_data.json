@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How to reset password?",
+    "answer": "Go to login page → click forgot password → follow email instructions."
+  },
+  {
+    "question": "How to convert to MSP mode?",
+    "answer": "Login as admin → Manage Workspace → Convert to MSP mode → confirm."
+  },
+  {
+    "question": "How to add subscription key?",
+    "answer": "Go to Services → Manage Service Subscription → Add key."
+  }
+]
