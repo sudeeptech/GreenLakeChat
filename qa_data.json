@@ -11,4 +11,8 @@
     "question": "How to add subscription key?",
     "answer": "Go to Services → Manage Service Subscription → Add key."
   }
+  {
+    "question": "What is Greenlake URL?",
+    "answer": "common.cloud.hpe.com."
+  }
 ]
