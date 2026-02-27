@@ -13,7 +13,7 @@ st.title("💬GreenLake Assistnace")
 # ----------------------------------
 # RELOAD BUTTON (for new data updates)
 # ----------------------------------
-if st.button("🔄 Reload Knowledge"):
+if st.button("🔄 Reload document"):
     st.cache_resource.clear()
     st.rerun()
 
