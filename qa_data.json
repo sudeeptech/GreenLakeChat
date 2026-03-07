@@ -39,7 +39,6 @@
     "question": "How do I add subscription keys in HPE GreenLake?",
     "answer": "To add subscription keys:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Subscription Keys** section.\n3. Click **Add Subscription Key**.\n4. Enter the key details:\n   - Subscription key value\n   - Assign to device(s) if required\n   - Associated product/service\n5. Click **Save**.\n6. The key will appear in your **Subscription Keys** list.\n\nFor assistance, contact **glplatformservices@hpe.com**."
   },
-  [
   {
     "question": "What is SFDC?",
     "answer": "SFDC stands for **Salesforce.com**, a cloud-based platform used by HPE for managing reports, tracking devices, subscriptions, and support cases.  \nYou can access HPE GreenLake reports directly here: [HPE GreenLake Reports](https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
