@@ -58,5 +58,9 @@
   {
     "question": "How do I submit a GLISS ticket for HPE GreenLake?",
     "answer": "To submit a GLISS ticket for HPE GreenLake issues or support requests:\n1. Open a browser and go to the GLISS Webform: [HPE Software Support / GLISS Webform](https://hp.my.salesforce-sites.com/CustomerSalesOp/SoftwareLicensingServicesWebform?region=AMS).\n2. Fill in the required details such as:\n   - Contact information\n   - Company\n   - Description of the issue or request\n   - Any relevant subscription or device information\n3. Review the information and click **Submit**.\n4. You will receive a confirmation email with your ticket number.\n\nFor assistance, you can also contact **glplatformservices@hpe.com**."
+  },
+  {
+    "question": "Where can I access the Reactive Device Onboarding list for HPE GreenLake?",
+    "answer": "You can access the **Reactive Device Onboarding** SharePoint list here: [Reactive Device Onboarding SharePoint](https://hpe.sharepoint.com/teams/aaSPlatformSupport/Lists/Reactive%20Device%20Onboarding/AllItems.aspx?&OR=Teams-HL&CT=1688036015462&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA1MDEwMDQyMiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D).\n\nUse this list to track and manage reactive device onboarding requests.  \nFor assistance, contact **glplatformservices@hpe.com**."
   }
 ]
