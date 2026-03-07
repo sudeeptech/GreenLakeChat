@@ -57,6 +57,6 @@
   },
   {
     "question": "What is SFDC?",
-    "answer": "SFDC stands for **Salesforce.com**, a cloud-based platform used by HPE for managing reports, tracking devices, subscriptions, and support cases.  \nYou can access HPE GreenLake reports directly here: [HPE GreenLake Reports](https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
+    "answer": "(https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
   }
 ]
