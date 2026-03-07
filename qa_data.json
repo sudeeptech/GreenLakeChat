@@ -22,5 +22,9 @@
   {
     "question": "Who is best cricketer in the world?",
     "answer": "Sachin tendulkar.(Have a nice day)"
-  }
+  },
+  {
+  "question": "How do I add a device in HPE GreenLake?",
+  "answer": "To add a device in HPE GreenLake:\n1. Log in to **HPE GreenLake Central**.\n2. Navigate to the **Devices** section from the main menu.\n3. Click **Add Device**.\n4. Enter the required details for the device:\n   - Device type and model\n   - Serial number\n   - Location\n   - Any relevant subscription or entitlement\n5. Review the information and click **Save**.\n6. The device will now appear in your **Devices** list.\n\nFor any assistance, contact greenlake@hpe.com."
+}
 ]
