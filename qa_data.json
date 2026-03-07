@@ -39,28 +39,25 @@
     "question": "How do I add subscription keys in HPE GreenLake?",
     "answer": "To add subscription keys:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Subscription Keys** section.\n3. Click **Add Subscription Key**.\n4. Enter the key details:\n   - Subscription key value\n   - Assign to device(s) if required\n   - Associated product/service\n5. Click **Save**.\n6. The key will appear in your **Subscription Keys** list.\n\nFor assistance, contact **glplatformservices@hpe.com**."
   },
+  [
   {
-    "question": "How do I unassign a key in HPE GreenLake?",
-    "answer": "To unassign a subscription key:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Subscription Keys** section.\n3. Select the key you want to unassign.\n4. Click **Unassign**.\n5. Confirm the action.\n6. The key will now be available to assign to another device.\n\nFor support, contact **glplatformservices@hpe.com**."
-  },
-  {
-    "question": "How do I remove a device in HPE GreenLake?",
-    "answer": "To remove a device:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Devices** section.\n3. Select the device you want to remove.\n4. Click **Remove Device**.\n5. Confirm the removal.\n6. The device will no longer appear in your **Devices** list.\n\nFor assistance, contact **glplatformservices@hpe.com**."
-  },
-  {
-    "question": "How do I view device usage in HPE GreenLake?",
-    "answer": "To view device usage:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Devices** section.\n3. Select the device you want to monitor.\n4. Click **View Usage** or **Usage Details**.\n5. Review metrics such as capacity, utilization, and alerts.\n6. For detailed reports or issues, contact **glplatformservices@hpe.com**."
+    "question": "What is SFDC?",
+    "answer": "SFDC stands for **Salesforce.com**, a cloud-based platform used by HPE for managing reports, tracking devices, subscriptions, and support cases.  \nYou can access HPE GreenLake reports directly here: [HPE GreenLake Reports](https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
   },
   {
     "question": "How do I create an HPE GreenLake account?",
-    "answer": "To create an HPE GreenLake account:\n1. Open a browser and go to https://common.cloud.hpe.com.  \n2. Click **Sign Up** at the bottom of the page.  \n3. Enter your email address, password, first name, last name, and organization details.  \n4. Accept the terms of use.  \n5. Click **Create Account**.  \n6. Check your email for a verification message and click the link to verify your account.  \n\nFor difficulties or assistance with verification, contact **glplatformservices@hpe.com**. :contentReference[oaicite:0]{index=0}"
+    "answer": "To create an HPE GreenLake account:\n1. Open a browser and go to https://common.cloud.hpe.com.\n2. Click **Sign Up**.\n3. Enter your email address, password, first name, last name, and company.\n4. Accept the terms of use.\n5. Click **Create Account**.\n6. Check your email for a verification message and click the link.\n\nFor difficulties, contact **glplatformservices@hpe.com**.  \n**SFDC Reference:** [HPE GreenLake Reports](https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
   },
   {
     "question": "How do I set up an automatic subscription key (Auto‑Subscribe) in HPE GreenLake?",
-    "answer": "To set up automatic subscription assignment:\n1. Log in to your HPE GreenLake workspace.  \n2. In the left menu, click **Devices**.  \n3. Click **Auto‑Subscribe** (or **Set Up Auto‑Subscribe**) in the Devices menu.  \n4. Click **Add**.  \n5. From the **Device Type** dropdown, select the type of device (e.g., Access Points, Switches, Controllers).  \n6. From the **Subscription Tier** dropdown, choose the tier you want (e.g., Foundation or Advanced).  \n7. Click **Configure Device** to save the auto‑subscribe configuration.  \n\nOnce configured, available subscription keys will automatically be assigned to new devices of the selected type.  \nFor help with setup or missing menu options, contact **glplatformservices@hpe.com**. :contentReference[oaicite:1]{index=1}"
+    "answer": "To set up automatic subscription assignment:\n1. Log in to your HPE GreenLake portal.\n2. Go to **Devices**.\n3. Click **Auto‑Subscribe** or **Set Up Auto‑Subscribe**.\n4. Click **Add**.\n5. Select the **Device Type** and **Subscription Tier**.\n6. Click **Configure Device** to save the setup.\n\nAvailable subscription keys will now automatically be assigned to new devices.  \nFor help, contact **glplatformservices@hpe.com**.  \n**SFDC Reference:** [HPE GreenLake Reports](https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
   },
   {
-    "question": "What are the password requirements when creating my HPE GreenLake user account?",
-    "answer": "When setting your HPE GreenLake user account password during signup:\n1. The password must be at least **8 characters long**.  \n2. It must include **uppercase and lowercase letters**.  \n3. It must contain **at least one number (0–9)**.  \n4. It must include **at least one special character** (e.g., ! @ # $ % ^ & * ).  \nDuring signup, enter your password and confirm it by typing it again to ensure it matches.  \n\nIf you cannot create a compliant password, contact **glplatformservices@hpe.com** for support. :contentReference[oaicite:2]{index=2}"
-  }
+    "question": "What are the password requirements for HPE GreenLake?",
+    "answer": "Password requirements:\n1. Minimum **8 characters**\n2. At least **one uppercase letter** (A-Z)\n3. At least **one lowercase letter** (a-z)\n4. At least **one number** (0-9)\n5. At least **one special character** (e.g., !@#$%^&*)\n6. Enter the password and confirm it during account creation or reset.\n\nFor assistance, contact **glplatformservices@hpe.com**.  \n**SFDC Reference:** [HPE GreenLake Reports](https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
+  },
+  {
+    "question": "What is SFDC?",
+    "answer": "SFDC stands for **Salesforce.com**, a cloud-based platform used by HPE for managing reports, tracking devices, subscriptions, and support cases.  \nYou can access HPE GreenLake reports directly here: [HPE GreenLake Reports](https://hp.lightning.force.com/lightning/r/Report/00O4o0000040g2jEAA/view?queryScope=userFolders)"
+  },
 ]
