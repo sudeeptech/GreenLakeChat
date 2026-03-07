@@ -30,5 +30,25 @@
   {
   "question": "How do I add subscription keys in HPE GreenLake?",
   "answer": "To add subscription keys in HPE GreenLake:\n1. Log in to **HPE GreenLake Central**.\n2. Navigate to the **Subscription Keys** section from the main menu.\n3. Click **Add Subscription Key**.\n4. Enter the key details, including:\n   - Subscription key value\n   - Device(s) to assign (if applicable)\n   - Associated product or service\n5. Click **Save** to add the key.\n6. The key will now appear in your **Subscription Keys** list.\n\nFor assistance, contact greenlake@hpe.com."
-}
+ },
+  {
+    "question": "How do I add a device in HPE GreenLake?",
+    "answer": "To add a device in HPE GreenLake:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Devices** section.\n3. Click **Add Device**.\n4. Enter the device details:\n   - Device type and model\n   - Serial number\n   - Location\n   - Associated subscription (if applicable)\n5. Review the information and click **Save**.\n6. The device will now appear in your **Devices** list.\n\nFor support, contact **glplatformservices@hpe.com**."
+  },
+  {
+    "question": "How do I add subscription keys in HPE GreenLake?",
+    "answer": "To add subscription keys:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Subscription Keys** section.\n3. Click **Add Subscription Key**.\n4. Enter the key details:\n   - Subscription key value\n   - Assign to device(s) if required\n   - Associated product/service\n5. Click **Save**.\n6. The key will appear in your **Subscription Keys** list.\n\nFor assistance, contact **glplatformservices@hpe.com**."
+  },
+  {
+    "question": "How do I unassign a key in HPE GreenLake?",
+    "answer": "To unassign a subscription key:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Subscription Keys** section.\n3. Select the key you want to unassign.\n4. Click **Unassign**.\n5. Confirm the action.\n6. The key will now be available to assign to another device.\n\nFor support, contact **glplatformservices@hpe.com**."
+  },
+  {
+    "question": "How do I remove a device in HPE GreenLake?",
+    "answer": "To remove a device:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Devices** section.\n3. Select the device you want to remove.\n4. Click **Remove Device**.\n5. Confirm the removal.\n6. The device will no longer appear in your **Devices** list.\n\nFor assistance, contact **glplatformservices@hpe.com**."
+  },
+  {
+    "question": "How do I view device usage in HPE GreenLake?",
+    "answer": "To view device usage:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Devices** section.\n3. Select the device you want to monitor.\n4. Click **View Usage** or **Usage Details**.\n5. Review metrics such as capacity, utilization, and alerts.\n6. For detailed reports or issues, contact **glplatformservices@hpe.com**."
+  }
 ]
