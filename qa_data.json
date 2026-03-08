@@ -138,5 +138,9 @@
   {
     "question": "Who handles GLCP (Anup Team) escalations?",
     "answer": "glp-escalations-notifications@hpe.com"
+  },
+  {
+    "question": "Where can I find the Azure AD SSO guide for HPE GreenLake and Aruba Central?",
+    "answer": "You can access the guide here: https://developer.hpe.com/blog/configuring-azure-ad-with-greenlake-cloud-platform-and-aruba-central/"
   }
 ]
