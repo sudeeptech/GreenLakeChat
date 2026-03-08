@@ -154,5 +154,9 @@
   {
     "question": "Where can I access the Reactive Device Onboarding SharePoint list?",
     "answer": "You can access the Reactive Device Onboarding SharePoint list here: https://hpe.sharepoint.com/teams/aaSPlatformSupport/Lists/Reactive%20Device%20Onboarding/AllItems.aspx?&OR=Teams-HL&CT=1688036015462&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA1MDEwMDQyMiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"
+  },
+  {
+    "question": "Where can I log in to TechDirect?",
+    "answer": "You can log in to TechDirect using this HPE SSO link: https://mylogin.hpe.com/oauth2/aus5016946Vxb1HI6697/v1/authorize?response_type=code&client_id=0oalqm5x4apQgEQf6697&redirect_uri=https://techdirect.corp.int.hpe.com/support/login/Default.aspx&scope=openid%20profile%20groups&state=xJJogdsWeZEHmSxTMoab"
   }
 ]
