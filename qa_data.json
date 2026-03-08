@@ -162,5 +162,9 @@
   {
     "question": "Where can I access the Intern OSV portal?",
     "answer": "https://intern.osv.hpe.com/login"
+  },
+  {
+    "question": "Where can I look up serial numbers for Nimble Storage?",
+    "answer": "You can use the Nimble Storage Serial Number lookup tool here: http://quality-ops.nimblestorage.com/sn_lookup"
   }
 ]
