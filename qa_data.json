@@ -62,5 +62,81 @@
   {
     "question": "Where can I access the Reactive Device Onboarding list for HPE GreenLake?",
     "answer": "You can access the **Reactive Device Onboarding** SharePoint list here: [Reactive Device Onboarding SharePoint](https://hpe.sharepoint.com/teams/aaSPlatformSupport/Lists/Reactive%20Device%20Onboarding/AllItems.aspx?&OR=Teams-HL&CT=1688036015462&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA1MDEwMDQyMiIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D).\n\nUse this list to track and manage reactive device onboarding requests.  \nFor assistance, contact **glplatformservices@hpe.com**."
+  },
+  {
+    "question": "Who should I contact for GPST IAM ONEPASS SME?",
+    "answer": "iam_sme@hpe.com"
+  },
+  {
+    "question": "What is the support email for GL Platform Services?",
+    "answer": "glplatformservices@hpe.com"
+  },
+  {
+    "question": "Who is the SME for GL Platform Services?",
+    "answer": "glplatformservices_sme@hpe.com"
+  },
+  {
+    "question": "Who should I contact for the GPST Core Group?",
+    "answer": "hpecareprojectmanagers@hpe.com"
+  },
+  {
+    "question": "What is the contact email for DSCC?",
+    "answer": "gldscc@hpe.com"
+  },
+  {
+    "question": "Who should I contact for Greenlake Connectivity issues?",
+    "answer": "glc@hpe.com"
+  },
+  {
+    "question": "Who is the SME for Greenlake Connectivity?",
+    "answer": "glplatformservices_sme@hpe.com"
+  },
+  {
+    "question": "Who should I contact for COM support?",
+    "answer": "comsupportspecialist@hpe.com, computecloudsupport@hpe.com, grsbcomsupport@hpe.com"
+  },
+  {
+    "question": "Who handles Billing and GreenLake Central Metering support?",
+    "answer": "pdlcscbfcsupportbgl@hpe.com"
+  },
+  {
+    "question": "Who should I contact for onboarding support?",
+    "answer": "gpst_hwonboard_core@hpe.com"
+  },
+  {
+    "question": "What is the contact email for the RPL team?",
+    "answer": "hperpl.team@hpe.com"
+  },
+  {
+    "question": "Who supports GreenLake Central services?",
+    "answer": "glcentralservices@hpe.com"
+  },
+  {
+    "question": "Who should I contact for Alletra Block Storage support?",
+    "answer": "alletrampblockstorage@hpe.com"
+  },
+  {
+    "question": "Who handles Order Management for Compute and Storage EAAS?",
+    "answer": "orders_wwcomputestorage_eaas@hpe.com"
+  },
+  {
+    "question": "Who should I contact for Storage Key Extension or subscription renewal?",
+    "answer": "alletrasubscriptionrenewals@hpe.com"
+  },
+  {
+    "question": "Who manages Pavo collaboration support?",
+    "answer": "ccs-bu-collaboration"
+  },
+  {
+    "question": "Who should I contact for Aruba escalations?",
+    "answer": "aruba-escalations@hpe.com"
+  },
+  {
+    "question": "Who should I contact for Aruba onboarding?",
+    "answer": "andreas.wlanteam@hpe.com"
+  },
+  {
+    "question": "Who handles GLCP (Anup Team) escalations?",
+    "answer": "glp-escalations-notifications@hpe.com"
   }
 ]
