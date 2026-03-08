@@ -166,5 +166,21 @@
   {
     "question": "Where can I look up serial numbers for Nimble Storage?",
     "answer": "You can use the Nimble Storage Serial Number lookup tool here: http://quality-ops.nimblestorage.com/sn_lookup"
+  },
+  {
+    "question": "Where can I find the Azure IDP (Entra ID) SSO and IDP configuration document?",
+    "answer": "You can access the Azure IDP (Entra ID) SSO and IDP configuration document here: https://hpe-my.sharepoint.com/personal/sumukh_g-k_hpe_com/_layouts/15/Doc.aspx?sourcedoc={720a4e81-430b-4013-ade7-20de6b14ca6c}&action=view&wd=target%28SSO%20and%20IDP.one%7C0e8bca31-760e-4bd3-876a-8d0c058ff305%2FEntra%20ID%28Azure%5C%29%7C524807c9-1cc7-4fdd-84e5-4cf85bb23f19%2F%29&wdorigin=NavigationUrl"
+  },
+  {
+    "question": "Where can I find the Okta SSO integration guide for HPE GreenLake and Aruba Central?",
+    "answer": "You can access the Okta SSO integration guide here: https://developer.hpe.com/blog/okta-sso-integration-for-green-lake-and-aruba-central/"
+  },
+  {
+    "question": "Where can I find the Google IDP (SSO) configuration document?",
+    "answer": "You can access the Google IDP (SSO) configuration document here: https://hpe-my.sharepoint.com/personal/sumukh_g-k_hpe_com/_layouts/15/Doc.aspx?sourcedoc={720a4e81-430b-4013-ade7-20de6b14ca6c}&action=view&wd=target%28SSO%20and%20IDP.one%7C0e8bca31-760e-4bd3-876a-8d0c058ff305%2FGoogle%20IDP%7C5b793171-fbb9-4ae9-af8f-bc280b52ba4a%2F%29&wdorigin=NavigationUrl"
+  },
+   {
+    "question": "Where can I find the ADFS IDP (SSO) configuration document?",
+    "answer": "You can access the ADFS IDP (SSO) configuration document here: https://hpe-my.sharepoint.com/personal/sumukh_g-k_hpe_com/_layouts/15/Doc.aspx?sourcedoc={720a4e81-430b-4013-ade7-20de6b14ca6c}&action=view&wd=target%28SSO%20and%20IDP.one%7C0e8bca31-760e-4bd3-876a-8d0c058ff305%2FADFS%20IDP%7C7ace7f4e-04d3-4e12-8138-6ac2c3c2b65b%2F%29&wdorigin=NavigationUrl"
   }
 ]
