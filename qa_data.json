@@ -182,5 +182,13 @@
    {
     "question": "Where can I find the ADFS IDP (SSO) configuration document?",
     "answer": "You can access the ADFS IDP (SSO) configuration document here: https://hpe-my.sharepoint.com/personal/sumukh_g-k_hpe_com/_layouts/15/Doc.aspx?sourcedoc={720a4e81-430b-4013-ade7-20de6b14ca6c}&action=view&wd=target%28SSO%20and%20IDP.one%7C0e8bca31-760e-4bd3-876a-8d0c058ff305%2FADFS%20IDP%7C7ace7f4e-04d3-4e12-8138-6ac2c3c2b65b%2F%29&wdorigin=NavigationUrl"
+  },
+  {
+    "question": "Where can I find the Scenario 2 – Error 400 SSO troubleshooting document?",
+    "answer": "You can access the Scenario 2 – Error 400 document here: https://hpe-my.sharepoint.com/personal/sumukh_g-k_hpe_com/_layouts/15/Doc.aspx?sourcedoc={720a4e81-430b-4013-ade7-20de6b14ca6c}&action=view&wd=target%28SSO%20and%20IDP.one%7C0e8bca31-760e-4bd3-876a-8d0c058ff305%2FScenario%202-Error%20400%7C53564f4c-adac-4602-a5fd-a0e31b4385ff%2F%29&wdorigin=NavigationUrl"
+  },
+  {
+    "question": "Where can I find the Scenario 3 – Relay State URL SSO configuration document?",
+    "answer": "You can access the Scenario 3 – Relay State URL document here: https://hpe-my.sharepoint.com/personal/sumukh_g-k_hpe_com/_layouts/15/Doc.aspx?sourcedoc={720a4e81-430b-4013-ade7-20de6b14ca6c}&action=view&wd=target%28SSO%20and%20IDP.one%7C0e8bca31-760e-4bd3-876a-8d0c058ff305%2FScenario%203-Relay%20State%20URL%7Cddb4455b-95f8-4201-b66f-93089a027e7b%2F%29&wdorigin=NavigationUrl"
   }
 ]
