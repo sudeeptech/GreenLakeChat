@@ -146,5 +146,9 @@
   {
     "question": "Where can I find the Okta SSO integration guide for HPE GreenLake and Aruba Central?",
     "answer": "You can access the guide here: https://developer.hpe.com/blog/okta-sso-integration-for-green-lake-and-aruba-central/"
+  },
+  {
+    "question": "Where can I submit or track SE GPST requests?",
+    "answer": "You can submit or track SE GPST requests via this SharePoint form: https://hpe.sharepoint.com/teams/GPST-Requests/Lists/GPST%20Request%20Tracking/NewForm.aspx?OR=Teams-HL&CT=1691077856765&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIyNy8yMzA3MDMwNzMzMCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D"
   }
 ]
