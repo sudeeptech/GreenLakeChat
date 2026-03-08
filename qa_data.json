@@ -31,7 +31,7 @@
   "question": "How do I add subscription keys in HPE GreenLake?",
   "answer": "To add subscription keys in HPE GreenLake:\n1. Log in to **HPE GreenLake Central**.\n2. Navigate to the **Subscription Keys** section from the main menu.\n3. Click **Add Subscription Key**.\n4. Enter the key details, including:\n   - Subscription key value\n   - Device(s) to assign (if applicable)\n   - Associated product or service\n5. Click **Save** to add the key.\n6. The key will now appear in your **Subscription Keys** list.\n\nFor assistance, contact ."
  },
-  {
+ {
     "question": "How do I add a device in HPE GreenLake?",
     "answer": "To add a device in HPE GreenLake:\n1. Log in to your HPE GreenLake portal.\n2. Go to the **Devices** section.\n3. Click **Add Device**.\n4. Enter the device details:\n   - Device type and model\n   - Serial number\n   - Location\n   - Associated subscription (if applicable)\n5. Review the information and click **Save**.\n6. The device will now appear in your **Devices** list.\n\nFor support, contact **glplatformservices@hpe.com**."
   },
