@@ -142,5 +142,9 @@
   {
     "question": "Where can I find the Azure AD SSO guide for HPE GreenLake and Aruba Central?",
     "answer": "You can access the guide here: https://developer.hpe.com/blog/configuring-azure-ad-with-greenlake-cloud-platform-and-aruba-central/"
+  },
+  {
+    "question": "Where can I find the Okta SSO integration guide for HPE GreenLake and Aruba Central?",
+    "answer": "You can access the guide here: https://developer.hpe.com/blog/okta-sso-integration-for-green-lake-and-aruba-central/"
   }
 ]
