@@ -158,5 +158,9 @@
   {
     "question": "Where can I log in to TechDirect?",
     "answer": "You can log in to TechDirect using this HPE SSO link: https://mylogin.hpe.com/oauth2/aus5016946Vxb1HI6697/v1/authorize?response_type=code&client_id=0oalqm5x4apQgEQf6697&redirect_uri=https://techdirect.corp.int.hpe.com/support/login/Default.aspx&scope=openid%20profile%20groups&state=xJJogdsWeZEHmSxTMoab"
+  },
+  {
+    "question": "Where can I access the Intern OSV portal?",
+    "answer": "https://intern.osv.hpe.com/login"
   }
 ]
