@@ -198,5 +198,169 @@
   {
     "question": "Where can I find the Scenario 5 – Claiming the second domain in the workspace SSO document?",
     "answer": "You can access the document here: https://hpe-my.sharepoint.com/personal/sumukh_g-k_hpe_com/_layouts/15/Doc.aspx?sourcedoc={720a4e81-430b-4013-ade7-20de6b14ca6c}&action=view&wd=target%28SSO%20and%20IDP.one%7C0e8bca31-760e-4bd3-876a-8d0c058ff305%2FScenerio-5-Claiming%20the%20second%20domain%20in%20the%7Caa206e8e-e2ab-4ff7-b1bb-ef7739c52b13%2F%29&wdorigin=NavigationUrl"
+  },
+  {
+    "question": "Who supports Alletra 9000 / Primera / StoreServ?",
+    "answer": "GSR WW"
+  },
+  {
+    "question": "What is the primary tool used for Alletra 9000 / Primera / StoreServ?",
+    "answer": "PAN HPE SFDC"
+  },
+  {
+    "question": "Which team handles Alletra 9000 / Primera / StoreServ?",
+    "answer": "Respective GSR regional teams"
+  },
+  {
+    "question": "What is the escalation contact for Alletra 9000 / Primera / StoreServ?",
+    "answer": "Respective GSR regional team / Hubs"
+  },
+
+  {
+    "question": "Who supports Alletra MP Block / Alletra MP B10000?",
+    "answer": "GSR WW"
+  },
+  {
+    "question": "What is the primary tool used for Alletra MP Block / Alletra MP B10000?",
+    "answer": "Nimble SFDC"
+  },
+  {
+    "question": "Which team handles Alletra MP Block / Alletra MP B10000?",
+    "answer": "AlletraMPBlockStorage@hpe.com"
+  },
+  {
+    "question": "What is the escalation contact for Alletra MP Block / Alletra MP B10000?",
+    "answer": "alletrampblockmanagers@hpe.com"
+  },
+  {
+    "question": "What is the program PIN for Alletra MP Block / Alletra MP B10000?",
+    "answer": "WW_HPE_GLC"
+  },
+
+  {
+    "question": "Who supports Alletra 5000 and 6000?",
+    "answer": "Nimble Storage Support"
+  },
+  {
+    "question": "What is the primary tool used for Alletra 5000 and 6000?",
+    "answer": "Nimble SFDC"
+  },
+  {
+    "question": "Which team handles Alletra 5000 and 6000?",
+    "answer": "Call Nimble Support Line"
+  },
+  {
+    "question": "What is the escalation contact for Alletra 5000 and 6000?",
+    "answer": "storage-support-managers@hpe.com"
+  },
+
+  {
+    "question": "Who supports GreenLake File Storage (GLFS)?",
+    "answer": "Nimble Storage Support"
+  },
+  {
+    "question": "What is the primary tool used for GreenLake File Storage (GLFS)?",
+    "answer": "Nimble SFDC"
+  },
+  {
+    "question": "Which team handles GreenLake File Storage (GLFS)?",
+    "answer": "Call Nimble Support Line"
+  },
+  {
+    "question": "What is the escalation contact for GreenLake File Storage (GLFS)?",
+    "answer": "storage-support-managers@hpe.com"
+  },
+
+  {
+    "question": "Who supports Alletra X10000 (Object Storage)?",
+    "answer": "Nimble Storage Support"
+  },
+  {
+    "question": "What is the primary tool used for Alletra X10000 (Object Storage)?",
+    "answer": "Nimble SFDC"
+  },
+  {
+    "question": "Which team handles Alletra X10000 (Object Storage)?",
+    "answer": "Call Nimble Support Line"
+  },
+  {
+    "question": "What is the escalation contact for Alletra X10000 (Object Storage)?",
+    "answer": "storage-support-managers@hpe.com"
+  },
+
+  {
+    "question": "Who supports Private Cloud Business Edition (PCBE) - DHCI?",
+    "answer": "Nimble Storage Support"
+  },
+  {
+    "question": "What is the primary tool used for PCBE - DHCI?",
+    "answer": "Nimble SFDC"
+  },
+  {
+    "question": "Which team handles PCBE - DHCI?",
+    "answer": "Call Nimble Support Line"
+  },
+  {
+    "question": "What is the escalation contact for PCBE - DHCI?",
+    "answer": "storage-support-managers@hpe.com"
+  },
+
+  {
+    "question": "Who supports Private Cloud Business Edition (PCBE) - Alletra MP?",
+    "answer": "GSR PCBE CoE"
+  },
+  {
+    "question": "What is the primary tool used for PCBE - Alletra MP?",
+    "answer": "PAN HPE SFDC, Nimble SFDC"
+  },
+  {
+    "question": "Which team handles PCBE - Alletra MP?",
+    "answer": "gsr.pcbe.coe@hpe.com"
+  },
+  {
+    "question": "What is the escalation contact for PCBE - Alletra MP?",
+    "answer": "gsr.pc.coemgmt@hpe.com"
+  },
+{
+    "question": "Who supports Private Cloud Business Edition (PCBE) - Simplivity?",
+    "answer": "GSR PCBE CoE"
+  },
+  {
+    "question": "What is the primary tool used for PCBE - Simplivity?",
+    "answer": "PAN HPE SFDC"
+  },
+  {
+    "question": "Which team handles PCBE - Simplivity?",
+    "answer": "gsr.pcbe.coe@hpe.com"
+  },
+  {
+    "question": "What is the escalation contact for PCBE - Simplivity?",
+    "answer": "gsr.pc.coemgmt@hpe.com"
+  },
+  {
+    "question": "What is the program PIN for PCBE - Simplivity?",
+    "answer": "PCBE CoE"
+  },
+
+  {
+    "question": "Who supports Private Cloud AI?",
+    "answer": "GSR PCAI CoE"
+  },
+  {
+    "question": "What is the primary tool used for Private Cloud AI?",
+    "answer": "PAN HPE SFDC"
+  },
+  {
+    "question": "Which team handles Private Cloud AI?",
+    "answer": "gsr.pcai.coe@hpe.com"
+  },
+  {
+    "question": "What is the escalation contact for Private Cloud AI?",
+    "answer": "gsr.pc.coemgmt@hpe.com"
+  },
+  {
+    "question": "What is the program PIN for Private Cloud AI?",
+    "answer": ""
   }
 ]
+
